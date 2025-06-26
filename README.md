@@ -1,3 +1,3 @@
-**this message is shown after sucessful merge of pull request**
-YOU ARE IN **FEATURE BRANCH**
-This branch is used to add new features without disturbing the main code of the application.
+YOU ARE IN **DEV BRANCH**
+This is to showcase how branches work in Github, DEV branch is used to store the files related to the development of the application.
+
